@@ -17,7 +17,7 @@
  
  
 
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">CONNECT WITH ME ON:</h3>
 <p align="middle">
 <a href="https://linkedin.com/in/voidsorrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voidsorrow" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/voidsorrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/voidsorrow" height="30" width="40" /></a>
