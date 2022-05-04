@@ -1,4 +1,4 @@
-<h1 align="center">HELLO THERE👋, I'M LAKSHMI SRINIVAS DEVISETTY</h1>
+<h1 align="center">Hello there👋, I'M LAKSHMI SRINIVAS DEVISETTY</h1>
 
 
 
