@@ -34,13 +34,7 @@
  
  
  
- 
- 
- 
- 
- 
- 
- 
+ [![An image of @voidsorrow57's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voidsorrow57)](https://holopin.io/@voidsorrow57)
  
  
  
