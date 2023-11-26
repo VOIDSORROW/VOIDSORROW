@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: <a href="https://www.freepnglogos.com/pics/logo-gmail" title="Image from freepnglogos.com"><pre align="center">VOIDSORROW57@GMAIL.COM</pre></a>
 
--                                    ⚡ Fun fact **Crazier than you think, funnier than you see.**
+
 
 
 
@@ -52,7 +52,7 @@
 
 - 📫 How to reach me: <a href="https://www.freepnglogos.com/pics/logo-gmail" title="Image from freepnglogos.com"><pre align="center">VOIDSORROW57@GMAIL.COM</pre></a>
 
--                                    ⚡ Fun fact **Crazier than you think, funnier than you see.**
+-                                    ⚡ Fun fact **Gamers don't die they Respawn** 👾 
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
