@@ -139,6 +139,7 @@ class VOIDSORROW:
 
 <div align="center">
 
+[![Discord](https://img.shields.io/badge/Discord-voidsorrow-1f3a6e?style=flat-square&logo=discord&logoColor=58a6ff)](https://discord.com/users/714846736115433502)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-srinivas57d-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/srinivas57d)
 [![Twitter](https://img.shields.io/badge/Twitter-@voidsorrow57-161b22?style=flat-square&logo=twitter&logoColor=58a6ff)](https://twitter.com/voidsorrow57)
 [![Mail](https://img.shields.io/badge/Email-srinivas57.dev@gmail.com-1f2d4a?style=flat-square&logo=gmail&logoColor=f78166)](mailto:srinivas57.dev@gmail.com)
