@@ -22,7 +22,17 @@
 
 ---
 
-<img align="right" width="190" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" width="190" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>
+
+<!-- <img align="right" width="190" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"/> -->
+
+
+<!-- <img align="right" width="190" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/> -->
+
+
+<!-- <img align="right" width="190" src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg"/> -->
+
+
 
 ```python
 class VOIDSORROW:
