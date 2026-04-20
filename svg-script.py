@@ -1,0 +1,25 @@
+svg = '''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="40%" style="stop-color:#161b22"/>
+      <stop offset="70%" style="stop-color:#1f2d4a"/>
+      <stop offset="100%" style="stop-color:#1f3a6e"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#bg)"/>
+  <!-- Wave shape -->
+  <path d="M0,120 C150,90 300,150 450,110 C600,70 750,130 900,100 L900,180 L0,180 Z" fill="#161b22" opacity="0.5"/>
+  <path d="M0,140 C200,110 400,160 600,130 C750,108 850,145 900,130 L900,180 L0,180 Z" fill="#0d1117" opacity="0.6"/>
+  <!-- Main title -->
+  <text x="450" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" fill="#58a6ff" text-anchor="middle" letter-spacing="1">Devisetty Lakshmi Srinivas</text>
+  <!-- Subtitle -->
+  <text x="450" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#8b949e" text-anchor="middle" letter-spacing="2">VOIDSORROW · M.Tech AI &amp; ML</text>
+</svg>'''
+
+with open('/tmp/header.svg', 'w') as f:
+    f.write(svg)
+
+print("SVG written")
+print(f"Length: {len(svg)} chars")
