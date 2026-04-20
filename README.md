@@ -4,7 +4,9 @@
 
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:1f2d4a,100:1f3a6e&height=180&section=header&text=Devisetty+Lakshmi+Srinivas&fontSize=34&fontColor=58a6ff&animation=fadeIn&fontAlignY=48&desc=VOIDSORROW+·+M.Tech+AI+%26+ML&descAlignY=70&descColor=8b949e&descSize=15) -->
 
-![Header](./header.svg)
+<!-- ![Header](./header.svg) -->
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Devisetty+Lakshmi+Srinivas;VOIDSORROW+%C2%B7+M.Tech+AI+%26+ML)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Deep+Learning+%7C+NLP+%7C+GenAI+%7C+LLMs;M.Tech+CSE+(AI+%26+ML)+%40+Amrita+Vishwa+Vidyapeetham;Building+models+that+actually+work+%E2%9A%A1;Gamers+don't+die+%E2%80%94+they+Respawn+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
