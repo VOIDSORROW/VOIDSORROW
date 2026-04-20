@@ -32,7 +32,6 @@ class VOIDSORROW:
   base   = "Guntur, Andhra Pradesh 🇮🇳"
   focus  = ["Deep Learning", "NLP", "GenAI", "LLMs"]
   os     = ["Arch Linux", "Kali", "Fedora"]
-  quote  = "Gamers don't die — they Respawn 👾"
 ```
 
 <br clear="right"/>
@@ -44,6 +43,7 @@ class VOIDSORROW:
 <div align="center">
 
 **Languages** &nbsp;
+
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=79c0ff)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff)
@@ -51,6 +51,7 @@ class VOIDSORROW:
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=58a6ff)
 
 **AI / ML** &nbsp;
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=ffa657)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=ffa657)
 ![CUDA](https://img.shields.io/badge/CUDA-161b22?style=flat-square&logo=nvidia&logoColor=3fb950)
@@ -58,12 +59,14 @@ class VOIDSORROW:
 ![HuggingFace](https://img.shields.io/badge/🤗_Transformers-161b22?style=flat-square&logoColor=d2a8ff)
 
 **GenAI** &nbsp;
+
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-1f2d4a?style=flat-square&logoColor=79c0ff)
 ![Ollama](https://img.shields.io/badge/Ollama3-1f2d4a?style=flat-square&logoColor=79c0ff)
 ![LMStudio](https://img.shields.io/badge/LMStudio-1f2d4a?style=flat-square&logoColor=79c0ff)
 ![NLP](https://img.shields.io/badge/NLP-1f2d4a?style=flat-square&logoColor=d2a8ff)
 
 **Infra** &nbsp;
+
 ![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=58a6ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=3fb950)
 ![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=e3b341)
