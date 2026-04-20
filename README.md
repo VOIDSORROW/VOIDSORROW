@@ -1,100 +1,126 @@
-<!-- <h1 align="center">Hello there👋, I'M LAKSHMI SRINIVAS DEVISETTY</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,70:1f2d4a,100:1f3a6e&height=180&section=header&text=Devisetty+Lakshmi+Srinivas&fontSize=34&fontColor=58a6ff&animation=fadeIn&fontAlignY=48&desc=VOIDSORROW+·+M.Tech+AI+%26+ML&descAlignY=70&descColor=8b949e&descSize=15"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Deep+Learning+%7C+NLP+%7C+GenAI+%7C+LLMs;M.Tech+CSE+(AI+%26+ML)+%40+Amrita+Vishwa+Vidyapeetham;Building+models+that+actually+work+%E2%9A%A1;Gamers+don't+die+%E2%80%94+they+Respawn+%F0%9F%8E%AE)](https://git.io/typing-svg)
 
-- 📫 How to reach me: <a href="https://www.freepnglogos.com/pics/logo-gmail" title="Image from freepnglogos.com"><pre align="center">VOIDSORROW57@GMAIL.COM</pre></a>
+<br/>
 
+[![Profile Views](https://komarev.com/ghpvc/?username=VOIDSORROW&style=flat-square&color=1f6feb&label=VIEWS)](https://github.com/VOIDSORROW)
+[![GitHub followers](https://img.shields.io/github/followers/VOIDSORROW?style=flat-square&color=1f6feb&labelColor=161b22&label=FOLLOWERS)](https://github.com/VOIDSORROW)
 
+</div>
 
+---
 
+<img align="right" width="190" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-<h3 align="left">SKILLS:</h3>
-<p align="right"> 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- </p>
- 
- 
+```python
+class VOIDSORROW:
+  name   = "Devisetty Lakshmi Srinivas"
+  degree = "M.Tech CSE (AI & ML) [2024–26]"
+  school = "Amrita Vishwa Vidyapeetham, Kerala"
+  base   = "Guntur, Andhra Pradesh 🇮🇳"
+  focus  = ["Deep Learning", "NLP", "GenAI", "LLMs"]
+  os     = ["Arch Linux", "Kali", "Fedora"]
+  quote  = "Gamers don't die — they Respawn 👾"
+```
 
-<h3 align="left">CONNECT WITH ME ON:</h3>
-<p align="right">
-<a href="https://linkedin.com/in/voidsorrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voidsorrow" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/voidsorrow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/voidsorrow" height="30" width="40" /></a>
-<a href="https://instagram.com/voidsorrow57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="voidsorrow57" height="30" width="40" /></a>
-</p>
+<br clear="right"/>
 
- -->
- 
- 
- 
- 
- 
- 
- 
- 
-<!--  
- [![An image of @voidsorrow57's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voidsorrow57)](https://holopin.io/@voidsorrow57)
- 
-  -->
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-<h1 align="center">Hello there👋, I'M LAKSHMI SRINIVAS DEVISETTY</h1>
-<!-- <h4 align="center">Exploring what bits & bytes can do !</h4> -->
+---
 
-- 📫 How to reach me: <a href="https://www.freepnglogos.com/pics/logo-gmail" title="Image from freepnglogos.com"><pre align="center">VOIDSORROW57@GMAIL.COM</pre></a>
+## ⚡ Stack
 
--                                    ⚡ Fun fact **Gamers don't die they Respawn** 👾 
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+**Languages** &nbsp;
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=c%2B%2B&logoColor=79c0ff)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=58a6ff)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=79c0ff)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=58a6ff)
 
- <a href="https://twitter.com/voidsorrow57" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="voidsorrow57" height="30" width="40" /></a>
- 
-<a href="https://linkedin.com/in/voidsorrow" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="voidsorrow" height="30" width="40" /></a>
+**AI / ML** &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=ffa657)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=ffa657)
+![CUDA](https://img.shields.io/badge/CUDA-161b22?style=flat-square&logo=nvidia&logoColor=3fb950)
+![scikit-learn](https://img.shields.io/badge/sklearn-161b22?style=flat-square&logo=scikit-learn&logoColor=f78166)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-161b22?style=flat-square&logoColor=d2a8ff)
 
- </p>
+**GenAI** &nbsp;
+![RAG](https://img.shields.io/badge/RAG_Pipelines-1f2d4a?style=flat-square&logoColor=79c0ff)
+![Ollama](https://img.shields.io/badge/Ollama3-1f2d4a?style=flat-square&logoColor=79c0ff)
+![LMStudio](https://img.shields.io/badge/LMStudio-1f2d4a?style=flat-square&logoColor=79c0ff)
+![NLP](https://img.shields.io/badge/NLP-1f2d4a?style=flat-square&logoColor=d2a8ff)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
- 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
- 
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+**Infra** &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-21262d?style=flat-square&logo=mysql&logoColor=58a6ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-21262d?style=flat-square&logo=mongodb&logoColor=3fb950)
+![Linux](https://img.shields.io/badge/Linux-21262d?style=flat-square&logo=linux&logoColor=e3b341)
 
- <a href="https://www.python.org" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</div>
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+---
 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+## 🔬 Projects
 
- <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+| # | Project | Stack | Score |
+|:-:|---------|-------|:-----:|
+| `01` | **MV-DCNN — Breast Cancer Classification** | `PyTorch` `CUDA` `Deep Learning` | `91% · AUC 93%` |
+| `02` | **Element-Level BIM Data Classification** | `PyTorch` `MLP` `IFC Datasets` | `92% acc` |
+| `03` | **Road Object Detection** *(INTEL Unnati)* | `YOLOv3` `Darknet-53` `OpenCV` | `95% acc` |
 
- 
- <!--
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
--->
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+---
 
- </p>
+## 🎮 Arenas
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-VOIDSORROW-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa657)](https://leetcode.com/VOIDSORROW)
+[![CodeChef](https://img.shields.io/badge/CodeChef-voidsorrow57-161b22?style=for-the-badge&logo=codechef&logoColor=58a6ff)](https://codechef.com/users/voidsorrow57)
+[![HackerRank](https://img.shields.io/badge/HackerRank-voidsorrow57-1f2d4a?style=for-the-badge&logo=hackerrank&logoColor=3fb950)](https://hackerrank.com/voidsorrow57)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-voidsorrow57-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=3fb950)](https://geeksforgeeks.org/user/voidsorrow57)
+
+🏅 **TCS CodeVite Season 11** — Global Rank **#4774**
+
+</div>
+
+---
+
+## 📜 Certs
+
+<div align="center">
+
+`MathWorks` Machine Learning on Ramp &nbsp;·&nbsp;
+`Google` Crash Course on Python &nbsp;·&nbsp;
+`CISCO` Cybersecurity Essentials &nbsp;·&nbsp;
+`Microsoft` Power Platform Fundamentals &nbsp;·&nbsp;
+`DataCamp` Intermediate Deep Learning with PyTorch
+
+</div>
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=VOIDSORROW&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOIDSORROW&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VOIDSORROW&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=79c0ff&sideNums=58a6ff"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-srinivas57d-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/srinivas57d)
+[![Twitter](https://img.shields.io/badge/Twitter-@voidsorrow57-161b22?style=flat-square&logo=twitter&logoColor=58a6ff)](https://twitter.com/voidsorrow57)
+[![Mail](https://img.shields.io/badge/Email-srinivas57.dev@gmail.com-1f2d4a?style=flat-square&logo=gmail&logoColor=f78166)](mailto:srinivas57.dev@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a6e,50:161b22,100:0d1117&height=100&section=footer&text=Gamers+don't+die+—+they+Respawn&fontSize=13&fontColor=8b949e&animation=fadeIn&fontAlignY=70"/>
+
+</div>
